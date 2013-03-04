@@ -1,4 +1,4 @@
 euler
 =====
 
-project euler code and other noodling
+project euler code and other noodling...
